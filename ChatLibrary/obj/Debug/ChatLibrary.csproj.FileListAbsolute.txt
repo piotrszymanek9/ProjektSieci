@@ -1,0 +1,10 @@
+C:\Users\Pedro\Desktop\ChatServer\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Pedro\Desktop\ChatServer\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Pedro\Desktop\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Pedro\Desktop\ChatServer\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.pdb
+F:\Programowanie\Sieci\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.dll
+F:\Programowanie\Sieci\ChatServer\ChatLibrary\bin\Debug\ChatLibrary.pdb
+F:\Programowanie\Sieci\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+F:\Programowanie\Sieci\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.dll
+F:\Programowanie\Sieci\ChatServer\ChatLibrary\obj\Debug\ChatLibrary.pdb
